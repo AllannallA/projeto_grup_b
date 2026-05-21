@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/fpf/Music/PROJETO-DO-GRUPO-B/bloco 2/mlruns/456157312905244220/models/m-48da73925e2044d9aceab88e30c19cf7/artifacts
+creation_timestamp: 1779391417801
+experiment_id: '456157312905244220'
+last_updated_timestamp: 1779391422453
+model_id: m-48da73925e2044d9aceab88e30c19cf7
+model_type: null
+name: pytorch_cnn_model
+source_run_id: ac56192e516f4033bb979ae2bcf76479
+status: 2
+status_message: null

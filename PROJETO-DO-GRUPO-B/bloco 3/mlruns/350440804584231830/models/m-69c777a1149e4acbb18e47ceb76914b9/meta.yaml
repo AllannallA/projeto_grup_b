@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/fpf/Music/PROJETO-DO-GRUPO-B/bloco 3/mlruns/350440804584231830/models/m-69c777a1149e4acbb18e47ceb76914b9/artifacts
+creation_timestamp: 1779393292471
+experiment_id: '350440804584231830'
+last_updated_timestamp: 1779393299383
+model_id: m-69c777a1149e4acbb18e47ceb76914b9
+model_type: null
+name: timm_effnetb0_model
+source_run_id: fc32eccd90a84852a96e9482ace8f2e9
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fpf/Music/PROJETO-DO-GRUPO-B/bloco 2/mlruns/456157312905244220/ac56192e516f4033bb979ae2bcf76479/artifacts
+end_time: 1779391422466
+entry_point_name: ''
+experiment_id: '456157312905244220'
+lifecycle_stage: active
+run_id: ac56192e516f4033bb979ae2bcf76479
+run_name: CNN_bloco2_rapida
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779391415166
+status: 3
+tags: []
+user_id: fpf

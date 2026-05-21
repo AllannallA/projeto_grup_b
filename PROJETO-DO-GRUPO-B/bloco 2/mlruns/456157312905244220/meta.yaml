@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/fpf/Music/PROJETO-DO-GRUPO-B/bloco 2/mlruns/456157312905244220
+creation_time: 1779391415029
+experiment_id: '456157312905244220'
+last_update_time: 1779391415029
+lifecycle_stage: active
+name: Fashion_MNIST_CNN
+trace_location: null
+workspace: default

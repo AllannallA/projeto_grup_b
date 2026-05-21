@@ -1,0 +1,1 @@
+Conv2d+BatchNorm+MaxPool x2 -> FC128 -> 10

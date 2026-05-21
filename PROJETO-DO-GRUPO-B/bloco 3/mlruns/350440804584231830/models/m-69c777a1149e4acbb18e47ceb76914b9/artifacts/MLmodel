@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/fpf/Music/PROJETO-DO-GRUPO-B/bloco 3/mlruns/350440804584231830/models/m-69c777a1149e4acbb18e47ceb76914b9/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.10
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1+cu121
+mlflow_version: 3.12.0
+model_id: m-69c777a1149e4acbb18e47ceb76914b9
+model_size_bytes: 16415590
+model_uuid: m-69c777a1149e4acbb18e47ceb76914b9
+prompts: null
+run_id: fc32eccd90a84852a96e9482ace8f2e9
+utc_time_created: '2026-05-21 19:54:52.532263'

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/fpf/Music/PROJETO-DO-GRUPO-B/bloco 3/mlruns/350440804584231830/fc32eccd90a84852a96e9482ace8f2e9/artifacts
+end_time: 1779393299405
+entry_point_name: ''
+experiment_id: '350440804584231830'
+lifecycle_stage: active
+run_id: fc32eccd90a84852a96e9482ace8f2e9
+run_name: EfficientNetB0_bloco3_rapido
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779393212901
+status: 3
+tags: []
+user_id: fpf
